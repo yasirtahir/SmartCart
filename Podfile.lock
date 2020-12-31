@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (5.4.1)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - lottie-ios (3.1.9)
+  - ScanKitFrameWork (1.0.2.300)
+  - SwiftyJSON (4.3.0)
+  - TTGSnackbar (1.10.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - AlamofireImage (~> 4.1)
+  - lottie-ios
+  - ScanKitFrameWork (~> 1.0.2.300)
+  - SwiftyJSON (~> 4.0)
+  - TTGSnackbar
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - lottie-ios
+    - ScanKitFrameWork
+    - SwiftyJSON
+    - TTGSnackbar
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
+  ScanKitFrameWork: 0ad578f3db0ef9b64dd0f533d10d10a52ce93c80
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  TTGSnackbar: 97c033600de8a9c8f4a093f25a08543a03946bcc
+
+PODFILE CHECKSUM: 56929d662d6a230b13a4e299713f6f30712fb1d2
+
+COCOAPODS: 1.10.0
