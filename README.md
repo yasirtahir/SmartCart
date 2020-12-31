@@ -24,7 +24,7 @@ Before getting started, following are the requirements:
 
   ## Development
 
-1. Add **pod 'ScanKitFrameWork', '~> 1.0.2.300'** # Huawei Scan Kit dependency in the PodFile.
+1. Add **pod 'ScanKitFrameWork', '~> 1.0.2.300'** in the PodFile.
 2. Add Camera and Photo permissions in the **info.plist**.  
 3. We used **Lottie** animations in our sample to enhance look and feel.
 4. Write necessary code for **Default View Scan Kit** and call the function.
