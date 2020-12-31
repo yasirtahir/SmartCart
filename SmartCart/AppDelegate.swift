@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  BookDetails
+//  SmartCart
 //
 //  Created by Yasir Tahir Ali on 21/11/2020.
 //
